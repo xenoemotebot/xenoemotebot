@@ -12,36 +12,44 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-# Project Title
+# <p align="center">✨ My Animated Project ✨</p>
 
-![License](https://img.shields.io/github/license/username/repo-name)
-![Issues](https://img.shields.io/github/issues/username/repo-name)
-![Stars](https://img.shields.io/github/stars/username/repo-name)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHBybmI0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGRZaO3u/giphy.gif" width="600" alt="Main Animation">
+</p>
 
-A short, catchy one-sentence description of what this project does. 
-
-[Live Demo](https://your-demo-link.com) | [Report Bug](https://github.com/username/repo-name/issues)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRs-welcome-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## 🧐 Features
-* **Feature A**: High-level description of a key functionality.
-* **Feature B**: Another cool thing your code does.
-* **Responsive**: Works on mobile and desktop.
+## ⚡ Quick Features
+- 🚀 **Real-time Updates**: Visualized with smooth transitions.
+- 🎨 **Dynamic UI**: Responsive and animated components.
+- 🛠️ **Powerful API**: Integrated with modern workflows.
+
+## 📽️ CONTACT XENO FOR FULL STACK WEB DESINING
+![XENO MODZ](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueHBybmI0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIw/giphy.gif)
 
 ## 🛠️ Tech Stack
-* **Language**: [e.g., Python / JavaScript]
-* **Framework**: [e.g., React / Django]
-* **Database**: [e.g., PostgreSQL / MongoDB]
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,mongodb" />
+  </a>
+</p>
 
-## 🚀 Getting Started
+## 📊 Activity Status
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?xenoemotebot=YOUR_USERNAME&show_icons=true&theme=radical)
 
-### Prerequisites
-List any software you need installed:
-* Node.js (v18+)
-* npm or yarn
+---
 
-### Installation
-1. **Clone the repo**
-   ```bash
-   git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
+## 📦 Installation
+```bash
+# Clone the repo
+git clone [https://github.com/username/project.git](https://github.com/username/project.git)
+
+# Install and Run
+npm install && npm start
